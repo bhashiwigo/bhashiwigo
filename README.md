@@ -12,7 +12,7 @@
   <br/>
 
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="[https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/EXPLORE-LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=00d2ff&color=181717)" />
+    <img src="https://img.shields.io/badge/EXPLORE-LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=00d2ff&color=181717" />
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/CONNECT-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
