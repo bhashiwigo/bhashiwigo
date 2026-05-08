@@ -21,13 +21,5 @@
 
 ---
 
-### 🛰️ 𝖲𝗒𝗌𝗍𝖾𝗆 𝖮𝗏𝖾𝗋𝗏𝗂𝖾𝗐
+### 𝖲𝗒𝗌𝗍𝖾𝗆 𝖮𝗏𝖾𝗋𝗏𝗂𝖾𝗐
 ```javascript
-
-const developer = {
-    name: "Chamod Bhashitha Wijegunarathne",
-    role: "Full-Stack Software Engineer",
-    stack: ["Java SE", "Vanilla JS", "MySQL"],
-    patterns: ["Layered Architecture", "DAO/BO"],
-    aesthetic: "Glassmorphism & Clean Typography"
-};
