@@ -17,6 +17,9 @@
   <a href="mailto:bhashiwigo@gmail.com">
     <img src="https://img.shields.io/badge/CONNECT-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://bhashiwigo.github.io/Personal-Portfolio/">
+    <img src="https://img.shields.io/badge/WEBSITE-D14836?style=for-the-badge&logo=web&logoColor=white">
+  </a>  
 </div>
 
 ---
