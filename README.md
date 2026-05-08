@@ -17,7 +17,7 @@
   <br/>
 
   <a href="https://linkedin.com/in/bhashitha-wijegunarathne-12b96735a">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=plastic&logo=linkedin&logoColor=white" width="200px" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=plastic&logo=linkedin&logoColor=white" width="100px" />
   </a>
   <a href="mailto:bhashiwigo@gmail.com">
     <img src="https://img.shields.io/badge/CONNECT-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
