@@ -1,8 +1,6 @@
 ## Hi there 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=00d2ff&height=250&section=header&text=CHAMOD%20BHASHITHA&fontSize=70&fontAlignY=45&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20//%20UI%20ARCHITECT&descSize=20&descAlignY=65" width="100%" />
-
   <br/>
 
   <img src="https://github.com/bhashiwigo/bhashiwigo/blob/main/Gemini_Generated_Image_j5688ej5688ej568-removebg-preview.png?raw=true" width="100px" style="border-radius: 50%; border: 2px solid #00d2ff;" />
@@ -27,9 +25,7 @@
 
 ### 🛰️ 𝖲𝗒𝗌𝗍𝖾𝗆 𝖮𝗏𝖾𝗋𝗏𝗂𝖾𝗐
 ```javascript
-/**
- * @status Exploring the boundaries of Tech & Design
- */
+
 const developer = {
     name: "Chamod Bhashitha Wijegunarathne",
     role: "Full-Stack Software Engineer",
