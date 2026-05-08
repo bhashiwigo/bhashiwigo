@@ -1,28 +1,17 @@
 ## Hi there 
 
-<!--
-**bhashiwigo/bhashiwigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <div align="center">
-  <img src="https://github.com/bhashiwigo/bhashiwigo/blob/main/Gemini_Generated_Image_j5688ej5688ej568-removebg-preview.png" width="50px" height="50px" />
+  <img src="https://capsule-render.vercel.app/render?type=venom&color=00d2ff&height=250&section=header&text=CHAMOD%20BHASHITHA&fontSize=70&fontAlignY=45&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20//%20UI%20ARCHITECT&descSize=20&descAlignY=65" width="100%" />
 
   <br/>
 
-  <h3><b>DECODING THE FUTURE, ONE PIXELS AT A TIME</b></h3>
-  <p><i>Undergraduate Software Engineer passionate about Clean Code, Layered Architecture, and Immersive UI/UX.</i></p>
+  <img src="https://github.com/bhashiwigo/bhashiwigo/blob/main/Gemini_Generated_Image_j5688ej5688ej568-removebg-preview.png?raw=true" width="100px" style="border-radius: 50%; border: 2px solid #00d2ff;" />
+
+  <br/>
+
+  <code><b><font size="4" face="monospace" color="#00d2ff">// DECODING THE FUTURE, ONE PIXEL AT A TIME</font></b></code>
+  <p><kbd><b>𝖴𝗇𝖽𝖾𝗋𝗀𝗋𝖺𝖽𝗎𝖺𝗍𝖾 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋</b></kbd></p>
+  <p><i><font face="monospace">Passionate about Clean Code, Layered Architecture, and Immersive UI/UX.</font></i></p>
 
   <br/>
 
@@ -36,12 +25,15 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛰️ System Overview
+### 🛰️ 𝖲𝗒𝗌𝗍𝖾𝗆 𝖮𝗏𝖾𝗋𝗏𝗂𝖾𝗐
 ```javascript
+/**
+ * @status Exploring the boundaries of Tech & Design
+ */
 const developer = {
     name: "Chamod Bhashitha Wijegunarathne",
     role: "Full-Stack Software Engineer",
-    focus: ["Layered Architecture", "Clean Code", "Glassmorphism UI"],
-    status: "Exploring the boundaries of Tech & Design"
+    stack: ["Java SE", "Vanilla JS", "MySQL"],
+    patterns: ["Layered Architecture", "DAO/BO"],
+    aesthetic: "Glassmorphism & Clean Typography"
 };
-
