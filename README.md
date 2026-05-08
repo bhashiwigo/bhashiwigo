@@ -15,10 +15,10 @@
 
   <a href="https://linkedin.com/in/bhashitha-wijegunarathne-12b96735a">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=plastic&logo=linkedin&logoColor=white" width="100px" />
-  </a>
+  </a> <>
   <a href="mailto:bhashiwigo@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=plastic&logo=gmail&logoColor=white" width="95px"/>
-  </a>
+  </a> <>
   <a href="https://bhashiwigo.github.io/Personal-Portfolio/">
     <img src="https://img.shields.io/badge/WEBSITE-4f4f4f?style=plastic&logo=website&logoColor=white" width="90px" />
   </a>  
