@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
   <br/>
 
-  <h3><b>// DECODING THE FUTURE, ONE PIXELS AT A TIME</b></h3>
+  <h3><b>DECODING THE FUTURE, ONE PIXELS AT A TIME</b></h3>
   <p><i>Undergraduate Software Engineer passionate about Clean Code, Layered Architecture, and Immersive UI/UX.</i></p>
 
   <br/>
