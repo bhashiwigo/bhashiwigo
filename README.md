@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=plastic&logo=gmail&logoColor=white" width="100px"/>
   </a>
   <a href="https://bhashiwigo.github.io/Personal-Portfolio/">
-    <img src="https://img.shields.io/badge/WEBSITE-4f4f4f?style=plastic&logo=website&logoColor=white" width="100px" />
+    <img src="https://img.shields.io/badge/WEBSITE-4f4f4f?style=plastic&logo=website&logoColor=white" width="90px" />
   </a>  
 </div>
 <br>
