@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://github.com/bhashiwigo/bhashiwigo/blob/main/Gemini_Generated_Image_j5688ej5688ej568-removebg-preview.png" width="100%" />
+  <img src="https://github.com/bhashiwigo/bhashiwigo/blob/main/Gemini_Generated_Image_j5688ej5688ej568-removebg-preview.png" width="50px" height="50px" />
 
   <br/>
 
