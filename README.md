@@ -1,6 +1,9 @@
 ## Hi there 👋 Welcome to My Digital Space
 
 <div align="center">
+
+---
+  
   <img src="https://github.com/bhashiwigo/bhashiwigo/blob/main/Gemini_Generated_Image_j5688ej5688ej568-removebg-preview.png?raw=true" width="100px" style="border-radius: 50%; border: 2px solid #00d2ff;" />
 
   <br/>
@@ -22,6 +25,7 @@
   </a>  
 </div>
 
+---
 
 ### 𝖲𝗒𝗌𝗍𝖾𝗆 𝖮𝗏𝖾𝗋𝗏𝗂𝖾𝗐
 
