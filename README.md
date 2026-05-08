@@ -3,9 +3,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bhashitha%20Wijegunarathne&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-
 ---
-  
   <img src="https://github.com/bhashiwigo/bhashiwigo/blob/main/Gemini_Generated_Image_j5688ej5688ej568-removebg-preview.png?raw=true" width="100px" style="border-radius: 50%; border: 2px solid #00d2ff;" />
 
   <br/>
