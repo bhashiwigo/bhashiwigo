@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/CONNECT-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://bhashiwigo.github.io/Personal-Portfolio/">
-    <img src="https://img.shields.io/badge/WEBSITE-4f4f4f?style=for-the-badge&logo=web&logoColor=white&width="200px">
+    <img src="https://img.shields.io/badge/WEBSITE-4f4f4f?style=for-the-badge&logo=web&logoColor=white>
   </a>  
 </div>
 
