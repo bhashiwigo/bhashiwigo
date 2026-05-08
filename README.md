@@ -5,7 +5,7 @@
 
   <br/>
 
-  <code><b><font size="8" face="monospace" color="#00d2ff">DECODING THE FUTURE, ONE PIXEL AT A TIME</font></b></code>
+  <code><b><font size="24" face="monospace" color="#00d2ff">DECODING THE FUTURE, ONE PIXEL AT A TIME</font></b></code>
   <p><kbd><b>𝖴𝗇𝖽𝖾𝗋𝗀𝗋𝖺𝖽𝗎𝖺𝗍𝖾 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋</b></kbd></p>
   <p><i><font face="monospace">Passionate about Clean Code, Layered Architecture, and Immersive UI/UX.</font></i></p>
 
