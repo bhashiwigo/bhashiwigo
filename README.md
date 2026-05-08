@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=00d2ff&height=250&section=header&text=CHAMOD%20BHASHITHA&fontSize=70&fontAlignY=45&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20//%20UI%20ARCHITECT&descSize=20&descAlignY=65" width="100%" />
+  <img src="https://github.com/bhashiwigo/bhashiwigo/blob/main/Gemini_Generated_Image_j5688ej5688ej568-removebg-preview.png" width="100%" />
 
   <br/>
 
